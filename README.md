@@ -1,3 +1,9 @@
+# Assessment: Using Router, Routes, Route, and Link
+
+*This repo is my solution for the Qualified assessment for 5.6.3*
+
+*Provide Routes and Route components for navigating a sample website.*
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
